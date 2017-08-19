@@ -6,4 +6,4 @@
 
 ## Starting to get our feet wet in jQuery and seeing how much shorter it is than vanilla js.
 
-## Day 3 lab was the hardest one so far, need to really pay attention of id s and classes that you are targeting with jQuery.
+## Day 3 lab was the hardest one so far, need to really pay attention of id s and classes that you are targeting with jQuery. 
