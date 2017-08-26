@@ -1,4 +1,5 @@
 # LJ Code 301 - Day 7-8
+
 ## We started using Node JS and I wanted to save this process because it sums up what we did.
 
 ## NPM Commands
